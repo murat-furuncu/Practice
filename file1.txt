@@ -1,3 +1,9 @@
 file1.txt
 
 file 1 is crwated
+
+
+
+I am adding new tjhings after adding things on file2
+
+file 1 is much more things in it
